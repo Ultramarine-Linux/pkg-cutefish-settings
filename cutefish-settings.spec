@@ -14,11 +14,12 @@ BuildRequires: cmake pkgconfig
 BuildRequires: extra-cmake-modules
 BuildRequires: libXcursor-devel libXi-devel
 BuildRequires: qt5-qtbase-devel qt5-qttools-devel qt5-qtdeclarative-devel qt5-qtx11extras-devel qt5-qtquickcontrols2-devel qt5-linguist
-BuildRequires: kf5-networkmanager-qt-devel kf5-modemmanager-qt-devel
+BuildRequires: kf5-networkmanager-qt-devel kf5-modemmanager-qt-devel kf5-kconfig-devel
 BuildRequires: libicu-devel
 BuildRequires: freetype-devel
 BuildRequires: fontconfig-devel
 BuildRequires: fishui-devel
+
 
 Requires: fishui
 
